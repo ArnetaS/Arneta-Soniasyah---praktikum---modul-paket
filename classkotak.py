@@ -1,4 +1,4 @@
-from KumpulanClass import Kotak as k
+from paket.KumpulanClass import Kotak as k
 
 def main():
     print("MENGHITUNG VOLUME KOTAK")
