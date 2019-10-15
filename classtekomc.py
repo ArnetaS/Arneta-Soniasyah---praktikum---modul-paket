@@ -1,4 +1,4 @@
-from KumpulanClass import TekomC as c
+from paket.KumpulanClass import TekomC as c
 
 def main():
     jp = 15
