@@ -1,4 +1,4 @@
-from KumpulanClass import Bola as b
+from paket.KumpulanClass import Bola as b
 
 def main():
     print("MENGHITUNG LUAS PERMUKAAN BOLA")
